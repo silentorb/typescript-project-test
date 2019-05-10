@@ -1,0 +1,14 @@
+{
+  "name": "project-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts/api.js",
+  "scripts": {
+    "tsc": "node_modules/.bin/tsc"
+  },
+  "private": true,
+  "dependencies": {
+    "typescript": "^3.4.5",
+    "vineyard-lawn": "https://github.com/vineyard-bloom/vineyard-lawn#2.x"
+  }
+}
